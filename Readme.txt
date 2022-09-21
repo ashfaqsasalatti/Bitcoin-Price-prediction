@@ -1,4 +1,4 @@
-Using Boostrap template with flask for deeploying Machine Learning projects
+Bitcoin Price prediction
 
 Template Name: Arsha
 Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
