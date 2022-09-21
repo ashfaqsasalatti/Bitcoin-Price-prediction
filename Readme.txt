@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Using Boostrap template with flask for deeploying Machine Learning projects
 
 Template Name: Arsha
 Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
